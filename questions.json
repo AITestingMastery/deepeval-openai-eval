@@ -1,0 +1,17 @@
+[
+  {
+    "input": "What is the capital of France?",
+    "expected_output": "The capital of France is Paris."
+  },
+  {
+    "input": "Explain what an API is in one or two sentences.",
+    "expected_output": "An API (Application Programming Interface) is a set of rules that lets different software programs communicate with each other."
+  },
+  {
+    "input": "What are three benefits of regular exercise?",
+    "expected_output": "Regular exercise improves heart health, helps maintain a healthy weight, and boosts mood and mental health."
+  },
+  {
+    "input": "Give me a short tip for writing clean Python code."
+  }
+]
